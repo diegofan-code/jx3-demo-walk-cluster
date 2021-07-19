@@ -21,7 +21,7 @@ spec:
     zone: us-central1-a
   environments:
   - key: dev
-    owner: cb-kubecd
+    owner: diegofan-code
     repository: jx3-demo-walk-cluster
   - key: staging
   - key: production
